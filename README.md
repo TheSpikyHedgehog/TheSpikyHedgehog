@@ -1,4 +1,4 @@
-<img src="thespikyhedgehog.png" alt="My Logo" width="800" height="500">
+<img src="thespikyhedgehog.png" alt="My Logo" width="500" height="500">
 
 #  👋 Hi, I’m TheSpikyHedgehog
 
