@@ -1,3 +1,5 @@
+<img src="thespikyhedgehog.png" alt="My Logo" width="500" height="600">
+
 #  👋 Hi, I’m TheSpikyHedgehog
 
 #### I love programming!
