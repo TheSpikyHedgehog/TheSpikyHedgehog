@@ -3,6 +3,4 @@
 
 #### I love programming!
 
-Programming is fun.  
-
-Open source is very good.  
+Game dev.
