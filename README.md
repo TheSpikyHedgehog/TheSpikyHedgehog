@@ -11,5 +11,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpikyHedgehog&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-## Other Links
+<h2 align="center"> Other Links </h2>
 - Itch.io: https://thespikyhedgehog.itch.io/
