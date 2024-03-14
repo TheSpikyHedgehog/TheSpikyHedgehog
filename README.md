@@ -10,3 +10,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpikyHedgehog&layout=compact&theme=dark" alt="top-langs" />
 </p>
+
+## Other Links
+- Itch.io: https://thespikyhedgehog.itch.io/
