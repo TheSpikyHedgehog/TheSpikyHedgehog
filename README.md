@@ -12,4 +12,5 @@
 </p>
 
 <h2 align="center"> Other Links </h2>
+- Website: https://thespikyhedgehog.netlify.app
 - Itch.io: https://thespikyhedgehog.itch.io/
