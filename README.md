@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="center"> Other Links </h2>
-- Website: https://thespikyhedgehog.netlify.app
+- Website: https://pricklesoft.com
 - Itch.io: https://thespikyhedgehog.itch.io/
 
 <p align="center">
